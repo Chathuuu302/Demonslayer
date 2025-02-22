@@ -5,14 +5,14 @@ module.exports = {
     sendWelcomeMessage: false,
     blackList: [],
     whiteList: [],
-    ownerNumber: '94773010580',
+    ownerNumber: '947688846500',
     userTimezone: 'Asia/Colombo',
     mongoUrl: 'mongodb+srv://hello:Mother@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: 'hello', // Replace with your database name
     botDetails: {
-        botName: 'FENIX ID OWNER',
-        botAge: '25',
-        botLocation: 'COLOMBO',
+        botName: 'CHATHU',
+        botAge: '15',
+        botLocation: 'KAGALLE',
         fenixSaveName: '𝐍ɑ͢ɱꪸ𝛆'
     },
     relaxWishes: [
